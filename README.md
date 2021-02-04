@@ -1,5 +1,9 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Md.Fahim Hossen 👨‍💻
 
+# ABOUT ME
+
+* I am a JavaScript Developer. Basically, follow MERN(MongoDB, Express, React, Nodejs) for developing purposes. Besides,I love to solve problems. 
+* Institution: American International University-Bangladesh
 
 ## ⚡ Tech Stack
 
