@@ -29,4 +29,4 @@
 
 <p align="center"> <a href="https://github.com/Er0r/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Er0r" alt="Er0r" /></a> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Er0r/Er0r)
+
