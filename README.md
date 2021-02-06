@@ -25,4 +25,8 @@
 * ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 * ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Er0r&label=Profile%20views&color=0e75b6&style=social" alt="Er0r" /> </p>
+
+<p align="center"> <a href="https://github.com/Er0r/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Er0r" alt="Er0r" /></a> </p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Er0r/Er0r)
