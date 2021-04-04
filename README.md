@@ -8,8 +8,8 @@
 ## ⚡ Tech Stack
 
 * ![Node.js](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=F7DF1E)
-* [!JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-* [!Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=F7DF1E)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=F7DF1E)
 * ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=F7DF1E)
 * ![React](https://img.shields.io/badge/-React-000?&logo=React)
 * ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=F7DF1E)
