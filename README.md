@@ -11,9 +11,8 @@
 * ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 * ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=F7DF1E)
 * ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=F7DF1E)
-* ![React](https://img.shields.io/badge/-React-000?&logo=React)
-* ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=F7DF1E)
-* ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=F7DF1E)
+* ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=F7DF1E)
+* ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=F7DF1E)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Er0r&label=Profile%20views&color=0e75b6&style=social" alt="Er0r" /> </p>
