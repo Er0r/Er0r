@@ -15,6 +15,7 @@
 * ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=F7DF1E)
 * ![NEXTJS](https://img.shields.io/badge/-NextJS-000?&logo=NEXTJS%2b%2b&logoColor=F7DF1E)
 * ![tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+* ![ReactJS](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Er0r&label=Profile%20views&color=0e75b6&style=social" alt="Er0r" /> </p>
