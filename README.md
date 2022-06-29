@@ -16,6 +16,8 @@
 * ![NEXTJS](https://img.shields.io/badge/-NextJS-000?&logo=NEXTJS%2b%2b&logoColor=F7DF1E)
 * ![tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 * ![ReactJS](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Er0r&label=Profile%20views&color=0e75b6&style=social" alt="Er0r" /> </p>
