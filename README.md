@@ -3,7 +3,7 @@
 # ABOUT ME
 
 * I am a JavaScript Developer. I am currently working as a junior Software Engineer at Cleinsight Incorporated. 
-* I have also interests at Machine Learning and I am currently working on a paper based on GNN. 
+* I also have an interest at Machine Learning and I am currently working on a paper based on GNN. 
 * Institution: American International University-Bangladesh
 
 ## ⚡ Tech Stack
