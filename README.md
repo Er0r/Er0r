@@ -18,6 +18,7 @@
 * ![ReactJS](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 * ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Er0r&label=Profile%20views&color=0e75b6&style=social" alt="Er0r" /> </p>
