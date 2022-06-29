@@ -2,7 +2,8 @@
 
 # ABOUT ME
 
-* I am a JavaScript Developer. Basically, follow MERN(MongoDB, Express, React, Nodejs) for developing purposes. Besides,I love to solve problems. 
+* I am a JavaScript Developer. I am currently working as a junior Software Engineer at Cleinsight Incorporated. 
+* I have also interest at Machine Learning and I am currently working on a paper based on GNN. 
 * Institution: American International University-Bangladesh
 
 ## ⚡ Tech Stack
