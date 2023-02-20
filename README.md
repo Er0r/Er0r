@@ -2,7 +2,7 @@
 
 # ABOUT ME
 
-* I am a JavaScript Developer. I am currently working as a junior Software Engineer at Cleinsight Incorporated. 
+* Currently working as a Software Engineer at Cleinsight Incorporated. Usually contributing on the backend portion using Laravel, NestJS, Serverless (Lambda), Database like MySQL, PostgreSQL, DynamoDB 
 * I also have an interest at Machine Learning and I am currently working on a paper based on GNN. 
 * Institution: American International University-Bangladesh
 
