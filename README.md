@@ -5,6 +5,7 @@
 * Currently working as a Software Engineer at Cleinsight Incorporated. Usually contributing on the backend portion using Laravel, NestJS, Serverless (Lambda), Database like MySQL, PostgreSQL, DynamoDB 
 * I also have an interest at Machine Learning and I am currently working on a paper based on GNN. 
 * Institution: American International University-Bangladesh
+* <a href="https://me.mfhos.live/"> PORTFOLIO </a>
 
 ## ⚡ Tech Stack
 
@@ -18,10 +19,3 @@
 * ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 * ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Er0r&label=Profile%20views&color=0e75b6&style=social" alt="Er0r" /> </p>
-
-<p align="center"> <a href="https://github.com/Er0r/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Er0r" alt="Er0r" /></a> </p>
-
-
