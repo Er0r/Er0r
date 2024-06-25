@@ -2,7 +2,7 @@
 
 # ABOUT ME
 
-* Currently working as a Software Engineer at Cleinsight Incorporated. Usually contributing on the backend portion using Laravel, NestJS, Serverless (Lambda), Database like MySQL, PostgreSQL, DynamoDB 
+* Currently working as a Lead Software Engineer at Flipbizz. Usually contributing on the backend portion using NestJS, Serverless (Lambda), PostgreSQL and DynamoDB. 
 * I also have an interest at Machine Learning and I am currently working on a paper based on Metaverse And Generative A.I. 
 * Institution: American International University-Bangladesh
 * <a href="https://main--snazzy-begonia-29e26d.netlify.app/"> PORTFOLIO </a>
